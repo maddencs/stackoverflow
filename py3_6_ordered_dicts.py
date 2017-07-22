@@ -2,9 +2,13 @@
 Referencing this answer on StackOverflow: 
     https://stackoverflow.com/questions/45157521/insert-an-item-into-a-specific-location-in-a-dict-in-a-single-statement/45157612#45157612
 
-    Original question: How to insert a dict object at the beginning of a dict in python3.6 where dicts are now ordered in the fewest lines possible.
+    Original question: How to insert a dict object at the beginning of a dict in python3.6 where dicts are now ordered in the 
+    fewest lines possible.
 
-    Solution: I didn't know anything about this, since I'm not using Python 3.6, but I installed it and ran a couple test functions and created a dict comprehension that could do it in 1 line. Then, I guess as a challenge, he asked me how I would insert it into position 1 and I provided another one line solution. Then I created a one line function that could do it for any dict. Because I'm that cool...yea...
+    Solution: I didn't know anything about this, since I'm not using Python 3.6, but I installed it and ran a couple test 
+    functions and created a dict comprehension that could do it in 1 line. Then, I guess as a challenge, he asked me how I 
+    would insert it into position 1 and I provided another one line solution. Then I created a one line function that could 
+    do it for any dict. Because I'm that cool...yea...
 """
 
 
